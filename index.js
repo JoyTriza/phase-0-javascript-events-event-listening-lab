@@ -2,6 +2,8 @@ function addingEventListener() {
 }
 let input = document.getElementById('input');
 
+
+
     function clickAlert(){
         alert("");
     }
@@ -9,6 +11,4 @@ let input = document.getElementById('input');
     input.addEventListener('click',clickAlert);
 
 document.addEventListener()
-
-
 
